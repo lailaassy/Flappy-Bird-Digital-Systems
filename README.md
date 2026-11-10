@@ -2,13 +2,13 @@
 
 A Verilog recreation of Flappy Bird for a VGA-based hardware system.
 
-**Verilog · FPGA · Quartus · ModelSim**
+![Verilog](https://img.shields.io/badge/Verilog-2563EB?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA-1D4ED8?style=flat-square) ![Quartus](https://img.shields.io/badge/Quartus-164E8A?style=flat-square) ![ModelSim](https://img.shields.io/badge/ModelSim-164E8A?style=flat-square)
 
 ## Overview
 
 This team project brings the core Flappy Bird gameplay into digital hardware: moving a bird through generated pillars, detecting collisions, and tracking the score.
 
-## Core features
+## Features
 
 - Bird movement and pillar generation
 - Collision detection
@@ -31,3 +31,7 @@ Developed with Quartus and ModelSim for an FPGA-based system. This repository co
 ## Team
 
 Laila Assy · Margaret Boychuk · Manahil Saeed
+
+---
+
+[More of my work](https://github.com/lailaassy) · [LinkedIn](https://www.linkedin.com/in/laila-assy/)
